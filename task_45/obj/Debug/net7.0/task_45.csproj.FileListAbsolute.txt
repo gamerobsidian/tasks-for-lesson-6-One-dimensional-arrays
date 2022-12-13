@@ -1,0 +1,15 @@
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\obj\Debug\net7.0\task_45.csproj.AssemblyReference.cache
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\obj\Debug\net7.0\task_45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\obj\Debug\net7.0\task_45.AssemblyInfoInputs.cache
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\obj\Debug\net7.0\task_45.AssemblyInfo.cs
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\obj\Debug\net7.0\task_45.csproj.CoreCompileInputs.cache
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\bin\Debug\net7.0\task_45.exe
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\bin\Debug\net7.0\task_45.deps.json
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\bin\Debug\net7.0\task_45.runtimeconfig.json
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\bin\Debug\net7.0\task_45.dll
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\bin\Debug\net7.0\task_45.pdb
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\obj\Debug\net7.0\task_45.dll
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\obj\Debug\net7.0\refint\task_45.dll
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\obj\Debug\net7.0\task_45.pdb
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\obj\Debug\net7.0\task_45.genruntimeconfig.cache
+C:\Users\Unnamed\Desktop\tasks-for-lesson-6-One-dimensional-arrays\task_45\obj\Debug\net7.0\ref\task_45.dll
